@@ -1,5 +1,7 @@
 # OpenClaw YouTube Upload Skill
 
+[![ClawHub Skill](https://img.shields.io/badge/ClawHub-youtube--upload-6f42c1)](https://clawhub.ai/BrOrlandi/youtube-upload)
+
 A specialized skill for OpenClaw that enables AI agents to securely upload videos to YouTube using the official YouTube Data API v3 and OAuth 2.0.
 
 This skill bypasses the need for fragile browser automation (like Playwright/Puppeteer) by utilizing a robust Python script under the hood, supporting large file uploads (chunking), titles, descriptions, and privacy settings.
