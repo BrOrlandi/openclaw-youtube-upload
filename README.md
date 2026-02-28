@@ -49,6 +49,12 @@ python3 scripts/upload.py \
   --secrets "client_secret.json"
 ```
 
-## Publishing to ClawdHub
+## ClawHub Skill Link
 
-*This repository is intended to be published on ClawdHub. Contributions and improvements are welcome.*
+Skill page:
+
+- https://clawhub.ai/BrOrlandi/youtube-upload
+
+## Publishing to ClawHub
+
+This repository is published as an OpenClaw skill on ClawHub. Contributions and improvements are welcome.
